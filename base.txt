@@ -1,0 +1,64 @@
+pytz==2019.3  # https://github.com/stub42/pytz
+python-slugify==4.0.0  # https://github.com/un33k/python-slugify
+Pillow==7.2.0  # https://github.com/python-pillow/Pillow
+argon2-cffi==19.2.0  # https://github.com/hynek/argon2_cffi
+whitenoise==4.1.4  # https://github.com/evansd/whitenoise
+redis==3.4.1  # https://github.com/antirez/redis
+celery==4.4.0  # pyup: < 5.0  # https://github.com/celery/celery
+django-celery-beat==1.6.0  # https://github.com/celery/django-celery-beat
+
+# Django
+# ------------------------------------------------------------------------------
+Django==2.2.14  # pyup: < 3.0  # https://www.djangoproject.com/
+django-environ==0.4.5  # https://github.com/joke2k/django-environ
+django-model-utils==4.0.0  # https://github.com/jazzband/django-model-utils
+django-allauth==0.41.0  # https://github.com/pennersr/django-allauth
+django-crispy-forms==1.8.1  # https://github.com/django-crispy-forms/django-crispy-forms
+django-redis==4.11.0  # https://github.com/niwinz/django-redis
+
+# GraphQL
+graphene-django==2.6.0 # http://docs.graphene-python.org/projects/django/en/latest/
+graphene-django-optimizer==0.6.0  # https://github.com/tfoxy/graphene-django-optimizer
+graphene-file-upload==1.2.2  # https://github.com/lmcgartland/graphene-file-upload
+
+# Django REST Framework
+djangorestframework==3.12.1  # https://github.com/encode/django-rest-framework
+coreapi==2.3.3  # https://github.com/core-api/python-client
+
+
+# Django/ReactJS integration
+# ------------------------------------------------------------------------------
+django-cors-headers==3.1.0  # https://github.com/ottoyiu/django-cors-headers
+
+
+# Custom Stuff goes here - this avoids weird diffs with cookiecutter :)
+
+# Python packages
+# ------------------------------------------------------------------------------
+attrs==19.1.0  # https://www.attrs.org/en/stable/
+tqdm==4.50.0  # https://github.com/tqdm/tqdm
+cx-Oracle==7.2.2 # https://oracle.github.io/python-cx_Oracle/
+pandas==0.25.1  # https://pandas.pydata.org/
+PyVCF==0.6.8  # http://pyvcf.readthedocs.io/en/latest/index.html
+phonenumbers==8.10.18  # https://pypi.org/project/phonenumbers/
+networkx==2.3  # http://networkx.github.io/
+freezegun==0.3.12  # https://github.com/spulec/freezegun
+flower==0.9.3  # https://github.com/mher/flower
+beautifulsoup4==4.8.1  # https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+pronto==0.12.2  # Need to look into making it compatible with v1. See https://github.com/chopdgd/django-phenotype-ontologies/issues/88
+mysqlclient==2.0.1
+
+# Django packages
+# ------------------------------------------------------------------------------
+django-admin-rangefilter==0.5.0  # https://github.com/silentsokolov/django-admin-rangefilter
+django-appconf==1.0.3  # https://django-appconf.readthedocs.io/en/latest/
+django-countries==5.4  # https://github.com/SmileyChris/django-countries
+django-filter==2.4.0  # https://github.com/carltongibson/django-filter
+django-oauth-toolkit==1.2.0  # http://dot.evonove.it/#setup
+django-phonenumber-field==2.3.1  # django-phonenumber-field >2.3.1 breaks the sync
+django-python3-ldap==0.11.2 # https://github.com/etianen/django-python3-ldap
+django-reversion==3.0.4  # https://django-reversion.readthedocs.io/en/stable/
+django-silk==3.0.4  # https://github.com/jazzband/django-silk
+django-smoketest==1.1.0  # https://github.com/ccnmtl/django-smoketest
+djangorestframework-jwt==1.11.0  # https://github.com/jpadilla/django-rest-framework-jwt
+django-rest-auth==0.9.5  # http://django-rest-auth.readthedocs.io/en/latest/installation.html
