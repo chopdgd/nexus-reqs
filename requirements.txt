@@ -30,7 +30,7 @@ PyVCF==0.6.8
 phonenumbers==8.10.18
 networkx==2.3
 freezegun==0.3.12
-flower==0.9.3
+flower==0.9.5
 beautifulsoup4==4.8.1
 pronto==0.12.2
 mysqlclient==2.0.1
