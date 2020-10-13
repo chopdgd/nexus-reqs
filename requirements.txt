@@ -14,7 +14,7 @@ Django==2.2.14  # pyup: < 3.0
 django-environ==0.4.5
 django-model-utils==4.0.0
 django-allauth==0.41.0
-django-crispy-forms==1.8.1
+django-crispy-forms==1.9.2
 django-redis==4.11.0
 graphene-django==2.6.0
 graphene-django-optimizer==0.6.0
