@@ -29,7 +29,7 @@ pandas==0.25.1
 PyVCF==0.6.8
 phonenumbers==8.10.18
 networkx==2.3
-freezegun==0.3.12
+freezegun==1.0.0
 flower==0.9.3
 beautifulsoup4==4.8.1
 pronto==0.12.2
