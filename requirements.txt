@@ -10,7 +10,6 @@ whitenoise==4.1.4
 redis==3.4.1
 celery==4.4.0  # pyup: < 5.0
 django-celery-beat==1.6.0
-Django==2.2.14  # pyup: < 3.0
 django-environ==0.4.5
 django-model-utils==4.0.0
 django-allauth==0.41.0
@@ -32,20 +31,26 @@ networkx==2.3
 freezegun==0.3.12
 flower==0.9.3
 beautifulsoup4==4.8.1
-pronto==0.12.2
 mysqlclient==2.0.1
 django-admin-rangefilter==0.5.0
 django-appconf==1.0.3
 django-countries==5.4
 django-filter==2.4.0
 django-oauth-toolkit==1.2.0
-django-phonenumber-field==2.3.1
 django-python3-ldap==0.11.2
 django-reversion==3.0.4
 django-silk==3.0.4
 django-smoketest==1.1.0
 djangorestframework-jwt==1.11.0
 django-rest-auth==0.9.5
+
+# Ignored version upgrades
+# Newer version break and need to be tested
+
+pronto==0.12.2  # pyup: ignore
+Django==2.2.14  # pyup: ignore
+django-phonenumber-field==2.3.1  # pyup: ignore
+
 
 ############################
 ##    TESTING PACKAGES    ##
