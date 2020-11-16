@@ -94,4 +94,4 @@ gunicorn==20.0.4
 psycopg2==2.8.6
 sentry-sdk==0.19.3
 sphinx-server==0.1.0
-django-anymail[mailgun]==7.0.0
+django-anymail[mailgun]==8.1
