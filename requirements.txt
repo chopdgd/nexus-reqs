@@ -26,7 +26,7 @@ tqdm==4.54.0
 cx-Oracle==8.0.1
 pandas==1.1.4
 PyVCF==0.6.8
-phonenumbers==8.10.18
+phonenumbers==8.12.13
 networkx==2.3
 freezegun==0.3.12
 flower==0.9.3
