@@ -57,7 +57,7 @@ django-phonenumber-field==2.3.1  # pyup: ignore
 ############################
 
 Werkzeug==1.0.1
-ipdb==0.12.2
+ipdb==0.13.5
 Sphinx==3.0.4
 psycopg2-binary==2.8.4
 mypy==0.740
