@@ -95,3 +95,5 @@ psycopg2==2.8.3
 sentry-sdk==0.13.3
 sphinx-server==0.1.0
 django-anymail[mailgun]==7.0.0
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+pylint>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
