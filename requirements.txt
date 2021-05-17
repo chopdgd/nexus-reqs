@@ -20,7 +20,7 @@ graphene-django-optimizer==0.8.0
 graphene-file-upload==1.2.2
 djangorestframework==3.12.4
 coreapi==2.3.3
-django-cors-headers==3.1.0
+django-cors-headers==3.7.0
 attrs==19.1.0
 tqdm==4.50.0
 cx-Oracle==7.2.2
