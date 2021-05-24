@@ -15,7 +15,7 @@ django-model-utils==4.1.1
 django-allauth==0.44.0
 django-crispy-forms==1.11.2
 django-redis==4.12.1
-graphene-django==2.6.0
+graphene-django==2.15.0
 graphene-django-optimizer==0.6.0
 graphene-file-upload==1.2.2
 djangorestframework==3.12.1
