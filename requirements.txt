@@ -24,7 +24,7 @@ django-cors-headers==3.7.0
 attrs==21.2.0
 tqdm==4.61.1
 cx-Oracle==8.2.1
-pandas==0.25.1
+pandas==1.2.4
 PyVCF==0.6.8
 phonenumbers==8.10.18
 networkx==2.3
