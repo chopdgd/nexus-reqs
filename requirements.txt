@@ -29,7 +29,7 @@ PyVCF==0.6.8
 phonenumbers==8.12.26
 networkx==2.5.1
 freezegun==1.1.0
-flower==0.9.3
+flower==1.0.0
 beautifulsoup4==4.8.1
 mysqlclient==2.0.1
 django-admin-rangefilter==0.5.0
