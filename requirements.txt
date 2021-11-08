@@ -63,7 +63,7 @@ psycopg2-binary==2.9.1
 mypy==0.910
 pytest==6.2.5
 pytest-sugar==0.9.4
-mock==3.0.5
+mock==4.0.3
 tox==3.14.0
 codecov==2.0.15
 pytest-cov==2.7.1
