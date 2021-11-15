@@ -32,7 +32,7 @@ freezegun==1.1.0
 flower==1.0.0
 beautifulsoup4==4.10.0
 mysqlclient==2.0.3
-django-admin-rangefilter==0.5.0
+django-admin-rangefilter==0.8.2
 django-appconf==1.0.3
 django-countries==5.4
 django-filter==2.4.0
