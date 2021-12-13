@@ -71,7 +71,7 @@ pytest-randomly==3.10.3
 autopep8==1.6.0
 flake8==4.0.1
 coverage==6.2
-black==19.10b0
+black==21.12b0
 pylint-django==2.0.13
 pylint-celery==0.3
 pre-commit==1.20.0
