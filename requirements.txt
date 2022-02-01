@@ -48,7 +48,7 @@ django-rest-auth==0.9.5
 # Newer version break and need to be tested
 
 pronto==0.12.2  # pyup: ignore
-Django==2.2.14  # pyup: ignore
+Django==2.2.27  # pyup: ignore
 django-phonenumber-field==2.3.1  # pyup: ignore
 
 
