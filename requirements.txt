@@ -60,7 +60,7 @@ Werkzeug==2.0.3
 ipdb==0.13.9
 Sphinx==4.4.0
 psycopg2-binary==2.9.3
-mypy==0.740
+mypy==0.940
 pytest==5.3.0
 pytest-sugar==0.9.2
 mock==3.0.5
