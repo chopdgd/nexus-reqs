@@ -83,7 +83,7 @@ django-coverage-plugin==3.0.0
 invoke==2.1.1
 model-bakery==1.11.0
 django-test-plus==2.2.1
-bandit==1.6.2
+bandit==1.7.5
 safety==1.8.5
 
 ###############################
