@@ -74,7 +74,7 @@ coverage==7.4.0
 black==24.1a1
 pylint-django==2.5.5
 pylint-celery==0.3
-pre-commit==1.20.0
+pre-commit==3.6.0
 factory-boy==2.12.0
 django-debug-toolbar==2.1
 django-extensions==2.2.9
