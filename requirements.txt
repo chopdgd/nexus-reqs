@@ -4,10 +4,10 @@
 
 pytz==2019.3
 python-slugify==4.0.0
-Pillow==7.2.0
+Pillow==10.3.0
 argon2-cffi==19.2.0
 whitenoise==4.1.4
-redis==3.4.1
+redis==4.3.6
 celery==4.4.0  # pyup: < 5.0
 django-celery-beat==1.6.0
 django-environ==0.4.5
@@ -27,7 +27,7 @@ cx-Oracle==7.2.2
 pandas==0.25.1
 PyVCF==0.6.8
 phonenumbers==8.10.18
-networkx==2.3
+networkx==2.6
 freezegun==0.3.12
 flower==0.9.3
 beautifulsoup4==4.8.1
@@ -48,7 +48,7 @@ django-rest-auth==0.9.5
 # Newer version break and need to be tested
 
 pronto==0.12.2  # pyup: ignore
-Django==2.2.14  # pyup: ignore
+Django==3.2.25  # pyup: ignore
 django-phonenumber-field==2.3.1  # pyup: ignore
 
 
@@ -58,7 +58,7 @@ django-phonenumber-field==2.3.1  # pyup: ignore
 
 Werkzeug==1.0.1
 ipdb==0.12.2
-Sphinx==3.0.4
+Sphinx==3.3.0
 psycopg2-binary==2.8.4
 mypy==0.740
 pytest==5.3.0
@@ -71,12 +71,12 @@ pytest-randomly==3.1.0
 autopep8==1.4.4
 flake8==3.7.8
 coverage==4.5.4
-black==19.10b0
+black==24.3.0
 pylint-django==2.0.13
 pylint-celery==0.3
 pre-commit==1.20.0
 factory-boy==2.12.0
-django-debug-toolbar==2.1
+django-debug-toolbar==2.2.1
 django-extensions==2.2.9
 pytest-django==3.7.0
 django-coverage-plugin==1.6.0
@@ -95,3 +95,5 @@ psycopg2==2.8.3
 sentry-sdk==0.13.3
 sphinx-server==0.1.0
 django-anymail[mailgun]==7.0.0
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
