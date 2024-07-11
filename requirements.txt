@@ -48,7 +48,7 @@ django-rest-auth==0.9.5
 # Newer version break and need to be tested
 
 pronto==0.12.2  # pyup: ignore
-Django==2.2.14  # pyup: ignore
+Django==4.2.14  # pyup: ignore
 django-phonenumber-field==2.3.1  # pyup: ignore
 
 
@@ -95,3 +95,4 @@ psycopg2==2.8.3
 sentry-sdk==0.13.3
 sphinx-server==0.1.0
 django-anymail[mailgun]==7.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
