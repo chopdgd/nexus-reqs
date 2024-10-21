@@ -64,7 +64,7 @@ mypy==1.12.1
 pytest==8.3.3
 pytest-sugar==1.0.0
 mock==5.1.0
-tox==3.14.0
+tox==4.23.0
 codecov==2.0.15
 pytest-cov==2.7.1
 pytest-randomly==3.1.0
