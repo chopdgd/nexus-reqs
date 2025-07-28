@@ -84,7 +84,7 @@ invoke==2.2.0
 model-bakery==1.20.5
 django-test-plus==2.3.0
 bandit==1.8.6
-safety==1.8.5
+safety==3.6.0
 
 ###############################
 ##    PRODUCTION PACKAGES    ##
