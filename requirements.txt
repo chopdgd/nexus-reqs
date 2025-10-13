@@ -68,7 +68,7 @@ tox==4.31.0
 codecov==2.1.13
 pytest-cov==7.0.0
 pytest-randomly==4.0.1
-autopep8==1.4.4
+autopep8==2.3.2
 flake8==3.7.8
 coverage==4.5.4
 black==19.10b0
