@@ -30,7 +30,7 @@ phonenumbers==9.0.22
 networkx==3.6.1
 freezegun==1.5.5
 flower==2.0.1
-beautifulsoup4==4.8.1
+beautifulsoup4==4.14.3
 mysqlclient==2.0.1
 django-admin-rangefilter==0.5.0
 django-appconf==1.0.3
